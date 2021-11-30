@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.page1 {
+    display: flex;
+    margin-left: 210px;
+    margin-top: 50px;
+}
+
+.text1 li {
+    display: inline-block;
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+.text1 {
+    display: flex;
+    align-items: flex-end;
+}
+
+.image1 img {
+    border-radius: 50%;
+    margin-left: 1000px;
+    margin-top: 50px;
+}
+
+.block1 {
+    width: 100%;
+    height: 400px;
+    background-color: #FFFDED;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
